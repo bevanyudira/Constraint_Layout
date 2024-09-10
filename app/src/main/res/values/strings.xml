@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pertemuan_4_tugas</string>
+    <string name="signup">Sign Up</string>
+    <string name="akun">Do you have an account? <font color="#2196F3">Login</font></string>
+</resources>
